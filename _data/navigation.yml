@@ -15,7 +15,7 @@ main:
     url: /#publications
 
   - title: "Education"
-    url: /#education/
+    url: /#education
 
   - title: "Internships"
     url: /#internships
