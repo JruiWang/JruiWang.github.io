@@ -45,7 +45,7 @@ I'm always open to discussing research, collaboration, and new ideas. Please fee
 
 ## 💼 <a id="internships"></a>Internships
 
-- *2024.08–Present*, [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai, China
+- *2025.08–Present*, [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai, China
 
 
 ## 🏅 <a id="honors_and_awards"></a>Honors and Awards
