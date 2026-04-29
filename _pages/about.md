@@ -11,15 +11,14 @@ I’m a first-year Ph.D. student in Computer Science at the [School of Computer 
 
 My research interests center around machine learning and large language models (LLMs), with recent work centering on:
 
-- Parametric Memory — designing and training parametric memory modules that retain domain-specific or pre-training knowledge, without relying on retrieval-augmented generation (RAG)
+- Next-Generation LLM Architectures — exploring latent memory mechanisms and new architectural designs to improve knowledge acquisition, reasoning, and generalization in large language models.
 
-- Memory-augmented LLMs — developing architectures that decouple knowledge and reasoning in LLMs to mitigate catastrophic forgetting and hallucination
-
-- Large-scale multi-node vector search — building new multi-machine FAISS-based vector search methods to support scalable memory systems
+- Parametric Memory — designing and training parametric memory modules for LLMs that learn and retain knowledge.
 
 I'm always open to discussing research, collaboration, and new ideas. Please feel free to reach out!
 
 ## 🔥 <a id="news"></a>News
+- **2026.01** 🎉 *MLP Memory* accepted to **ICLR 2026**  
 - **2025.10** 🚀 *MLP Memory* released — model weights and code are now open-sourced.
 - **2025.09** 🚀 *Memory Decoder* released — model weights and code are now open-sourced.
 - **2025.09** 🎉 *Memory Decoder* accepted to **NeurIPS 2025**  
