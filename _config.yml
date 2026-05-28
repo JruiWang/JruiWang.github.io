@@ -31,6 +31,8 @@ author:
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "wangjiarui1@sjtu.edu.cn" 
+  wechat_qr        : "/images/wechat-qr.png"
+  cv_pdf           : "/files/Jiarui_Wang_CV.pdf"
 
   # Academic websites
   academia         : # URL
