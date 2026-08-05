@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I’m a first-year Ph.D. student in Computer Science at the [School of Computer Science, Shanghai Jiao Tong University (SJTU)](https://cs.sjtu.edu.cn/), advised by Prof. [Zhouhan Lin](https://hantek.github.io/) in [Language Understanding and Machine Intelligence Algorithms (LUMIA) Group](https://lumia-group.github.io/). I also earned my Bachelor’s degree in Computer Science from SJTU.
+I’m a Ph.D. student in Computer Science at the [School of Computer Science, Shanghai Jiao Tong University (SJTU)](https://cs.sjtu.edu.cn/), advised by Prof. [Zhouhan Lin](https://hantek.github.io/) in [Language Understanding and Machine Intelligence Algorithms (LUMIA) Group](https://lumia-group.github.io/). I also earned my Bachelor’s degree in Computer Science from SJTU.
 
-My research interests center around machine learning and large language models (LLMs), with recent work centering on:
+My research focuses on machine learning and large language models (LLMs), with particular interests in:
 
-- Next-Generation LLM Architectures — exploring latent memory mechanisms and new architectural designs to improve knowledge acquisition, reasoning, and generalization in large language models.
+- **Next-Generation LLM Architectures** — exploring new architectural paradigms that decouple knowledge storage from reasoning to improve knowledge acquisition, reasoning, and generalization.
 
-- Parametric Memory — designing and training parametric memory modules for LLMs that learn and retain knowledge.
+- **Parametric Memory** — developing parametric memory modules for LLMs that efficiently acquire, retain, and update knowledge.
 
 I'm always open to discussing research, collaboration, and new ideas. Please feel free to reach out!
 
