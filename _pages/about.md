@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. student in Computer Science at the [School of Computer Science, Shanghai Jiao Tong University (SJTU)](https://cs.sjtu.edu.cn/), advised by Prof. [Zhouhan Lin](https://hantek.github.io/) in [Language Understanding and Machine Intelligence Algorithms (LUMIA) Group](https://lumia-group.github.io/). I also earned my Bachelor’s degree in Computer Science from SJTU.
+I’m a Ph.D. student in Computer Science at the [School of Computer Science, Shanghai Jiao Tong University (SJTU)](https://cs.sjtu.edu.cn/), advised by Prof. [Zhouhan Lin](https://hantek.github.io/) in [Language Understanding and Machine Intelligence Algorithms (LUMIA) Group](https://lumia-group.github.io/). I received my B.S. in Computer Science from SJTU.
 
 My research focuses on machine learning and large language models (LLMs), with particular interests in:
 
