@@ -18,11 +18,12 @@ My research focuses on machine learning and large language models (LLMs), with p
 I'm always open to discussing research, collaboration, and new ideas. Please feel free to reach out!
 
 ## 🔥 <a id="news"></a>News
-- **2026.07** 🚀 *Intern-S2-Preview-397B* released — contributed to the development of its memory architecture.
+- **2026.07** 🚀 [*Intern-S2-Preview-397B*](https://huggingface.co/internlm/Intern-S2-Preview-397B) released — contributed to the development of its memory architecture.
 - **2026.07** 🚀 *MemSFT* released — paper, model weights, and code are now open-sourced.
+- **2026.07** 🚀 *Memory Decoder at Scale* released.
 - **2026.01** 🎉 *MLP Memory* accepted to **ICLR 2026**  
-- **2025.10** 🚀 *MLP Memory* released — model weights and code are now open-sourced.
-- **2025.09** 🚀 *Memory Decoder* released — model weights and code are now open-sourced.
+- **2025.10** 🚀 *MLP Memory* released.
+- **2025.09** 🚀 *Memory Decoder* released.
 - **2025.09** 🎉 *Memory Decoder* accepted to **NeurIPS 2025**  
 - **2024.05** 🏆 Our Robocup team SRC won Second Place in **RoboCup China Open**
 
