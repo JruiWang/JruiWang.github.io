@@ -18,13 +18,13 @@ My research focuses on machine learning and large language models (LLMs), with p
 I'm always open to discussing research, collaboration, and new ideas. Please feel free to reach out!
 
 ## 🔥 <a id="news"></a>News
-- **2026.07** 🚀 [*Intern-S2-Preview-397B*](https://huggingface.co/internlm/Intern-S2-Preview-397B) released — contributed to the development of its memory architecture.
-- **2026.07** 🚀 *MemSFT* released — paper, model weights, and code are now open-sourced.
-- **2026.07** 🚀 *Memory Decoder at Scale* released.
-- **2026.01** 🎉 *MLP Memory* accepted to **ICLR 2026**  
-- **2025.10** 🚀 *MLP Memory* released.
-- **2025.09** 🚀 *Memory Decoder* released.
-- **2025.09** 🎉 *Memory Decoder* accepted to **NeurIPS 2025**  
+- **2026.07** 🚀 [*Intern-S2-Preview-397B*](https://huggingface.co/internlm/Intern-S2-Preview-397B) released — led the research and development of its memory architecture.
+- **2026.07** 🚀 [*MemSFT*](https://arxiv.org/abs/2607.25614) released — paper, model weights, and code are now open-sourced.
+- **2026.07** 🚀 [*Memory Decoder at Scale*](https://arxiv.org/abs/2607.27919) released.
+- **2026.01** 🎉 [*MLP Memory*](https://arxiv.org/abs/2508.01832) accepted to **ICLR 2026**
+- **2025.10** 🚀 [*MLP Memory*](https://arxiv.org/abs/2508.01832) released.
+- **2025.09** 🚀 [*Memory Decoder*](https://arxiv.org/abs/2508.09874) released.
+- **2025.09** 🎉 [*Memory Decoder*](https://arxiv.org/abs/2508.09874) accepted to **NeurIPS 2025**
 - **2024.05** 🏆 Our Robocup team SRC won Second Place in **RoboCup China Open**
 
 ## 📚 <a id="publications"></a>Publications
@@ -33,6 +33,11 @@ I'm always open to discussing research, collaboration, and new ideas. Please fee
   *<strong>Jiarui Wang</strong>\*, Xiang Shi\*, Jiaqi Cao, Rubin Wei, Xiquan Wang, Hao Sun, Jingzhi Wang, Zhiqi Yang, Qipeng Guo, Bowen Zhou, Zhouhan Lin*<br>
   _arXiv preprint (2026)_<br>
   🔗 [arXiv](https://arxiv.org/abs/2607.25614) · [GitHub](https://github.com/LUMIA-Group/MemSFT) · [Hugging Face](https://huggingface.co/Jiarui-Wang/MemSFT-Qwen3-OpenSWI-Memory-8B) · \* Equal Contribution
+
+- **Intern-S2-Preview: Scientific Agentic Foundation Model**<br>
+  *Intern-S2-Preview Team, Shanghai AI Laboratory*<br>
+  _Co-author; arXiv preprint (2026)_<br>
+  🔗 [arXiv](https://arxiv.org/abs/2608.13505) · [GitHub](https://github.com/InternLM/Intern-S1) · [Hugging Face](https://huggingface.co/collections/internlm/intern-s2)
 
 - **Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory**<br>
   *Rubin Wei, Jiaqi Cao, **Jiarui Wang**, Junming Zhang, Qipeng Guo, Bowen Zhou, Zhouhan Lin*<br>
