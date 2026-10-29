@@ -44,6 +44,16 @@ I'm always open to discussing research, collaboration, and new ideas. Please fee
   _arXiv preprint (2026)_<br>
   🔗 [arXiv](https://arxiv.org/abs/2607.27919) · [GitHub](https://github.com/LUMIA-Group/MemoryDecoder-at-Scale) · [Hugging Face](https://huggingface.co/collections/Rubin-Wei/memorydecoder-at-scale)
 
+- **Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models**<br>
+  *Rubin Wei, Siyuan Sun, Hao Sun, Yuliang Liu, Xiang Shi, **Jiarui Wang**, Junming Zhang, Zhouhan Lin*<br>
+  _arXiv preprint (2026)_<br>
+  🔗 [arXiv](https://arxiv.org/abs/2610.25100)
+
+- **HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory**<br>
+  *Junming Zhang, Rubin Wei, Xu Cheng, Hao Sun, **Jiarui Wang**, Ruoxi Cheng, Xiquan Wang, Peisong Wu, Mingsong Chen, Zhouhan Lin*<br>
+  _arXiv preprint (2026)_<br>
+  🔗 [arXiv](https://arxiv.org/abs/2610.24520)
+
 - **MLP Memory: A Retriever-Pretrained Memory for Large Language Models**<br>
   *Rubin Wei\*, Jiaqi Cao\*, **Jiarui Wang**, Jushi Kai, Qipeng Guo, Bowen Zhou, Zhouhan Lin*<br>
   _ICLR 2026_<br>
